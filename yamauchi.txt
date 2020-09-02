@@ -3,3 +3,5 @@
 github上から編集してみます。
 
 CUIを使ったgit操作。
+
+github上で編集し、suiからプルする。
